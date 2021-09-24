@@ -1,5 +1,5 @@
 ### Hola, I'am Rola 👋
-I'm a front end web react developer, I have always been passionate about coding and programming, and this has funded my special interest in web development. I always seek additional knowledge when it comes to technology and learning new techniques. Thus, I have been involved in several online courses and projects to improve my skills in the field.
+I'm a front end web react developer, I have always passionate about coding and programming, and this has funded my special interest in web development. I always seek additional knowledge when it comes to technology and learning new techniques. Thus, I have been involved in several online courses and projects to improve my skills in the field.
 <!--
 **rola-gh/rola-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
