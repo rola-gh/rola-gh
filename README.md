@@ -28,7 +28,7 @@ Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup.
   </table>
 </center>
 
-## :inbox_tray: keep in touch
+## :inbox_tray: Contact with me
 * inbox me : Rola8355@gmail.com. 
 * Discord  : Rola_ghanima#2682
 
