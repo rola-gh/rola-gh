@@ -1,17 +1,41 @@
-### Hola, I'am Rola 👋
-I'm a front end web react developer, I have always passionate about coding and programming, and this has funded my special interest in web development. I always seek additional knowledge when it comes to technology and learning new techniques. Thus, I have been involved in several online courses and projects to improve my skills in the field.
-<!--
-**rola-gh/rola-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, I'am Rola 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=rola-gh&color=yellow)</div>
 
-Here are some ideas to get you started:
+From Palestine, living in Gaza :v:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ >I'm a front end web react developer, I have always passionate about coding and programming, and this has funded my special interest in web development. I always seek additional knowledge when it comes to technology and learning new techniques. Thus, I have been involved in several online courses and projects to improve my skills in the field.
 
--->
+I now work as a dev React :muscle: .
+
+
+## :round_pushpin: Languages
+```
+HTML5, CSS3, SCSS, Bootstrap, Javascript, React Js, React hooks, React UI, Firebase. 
+```
+
+## :round_pushpin: Tools 
+```
+Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup. 
+```
+
+### :zap: GitHub Stats
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td>
+    </tr>   
+  </table>
+</center>
+
+## :inbox_tray: keep in touch
+* inbox me : Rola8355@gmail.com. 
+* Discord  : Rola_ghanima#2682
+
+<!-- [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100px"/>](https://www.facebook.com/rola.ghanima)   -->
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RolaGhanima) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />](https://www.linkedin.com/in/rola-gh/)
+
+
+
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile-dodgerred.svg?style=for-the-badge)
