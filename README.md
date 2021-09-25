@@ -16,19 +16,29 @@ HTML5, CSS3, SCSS, Bootstrap, Javascript, React Js, React hooks, React UI, Fireb
 ```
 Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup. 
 ```
-<!-- <details>
- <summary><b> :zap: GitHub Stats
-</b></summary></details> -->
+<details>
+ <summary><b> :zap: GitHub Stats </b></summary>
+   <center>
+     <table>
+       <tr>
+           <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&show_icons=true&theme=radical&hide=html&layout=compact" /></td>
+       </tr>   
+     </table>
+   </center>
 
-### :zap: GitHub Stats
+
+
+</details>
+
+<!-- ### :zap: GitHub Stats
 <center>
   <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&show_icons=true&theme=radical&hide=html&layout=compact" /></td>
-<!--         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td>  -->
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td> 
     </tr>   
   </table>
-</center>
+</center> -->
 
 ## :inbox_tray: Contact with me
 * inbox me : Rola8355@gmail.com. 
