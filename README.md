@@ -16,13 +16,16 @@ HTML5, CSS3, SCSS, Bootstrap, Javascript, React Js, React hooks, React UI, Fireb
 ```
 Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup. 
 ```
+<!-- <details>
+ <summary><b> :zap: GitHub Stats
+</b></summary></details> -->
 
 ### :zap: GitHub Stats
 <center>
   <table>
     <tr>
-<!--         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight" /></td> -->
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&show_icons=true&theme=radical&hide=html&layout=compact" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td> 
     </tr>   
   </table>
 </center>
