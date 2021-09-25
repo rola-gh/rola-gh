@@ -18,11 +18,10 @@ Webstorm, Figma, Adobe XD, Git, Postman, Jira, Trello, clickup.
 ```
 
 ### :zap: GitHub Stats
-
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight" /></td>
+<!--         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rola-gh&hide=html&layout=compact&theme=tokyonight" /></td> -->
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rola-gh&hide=html&layout=compact&theme=tokyonight"/></td>
     </tr>   
   </table>
