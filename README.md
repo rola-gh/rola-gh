@@ -9,7 +9,7 @@ I now work as a dev React :muscle: .
 
 ## :round_pushpin: Languages
 ```
-HTML5, CSS3, SCSS, Bootstrap, Javascript, React Js, React hooks, React UI, Firebase. 
+HTML5, CSS3, SCSS, Bootstrap, Javascript, React Js, React UI, Styled Components, Typescript, Redux, Firebase. 
 ```
 
 ## :round_pushpin: Tools 
