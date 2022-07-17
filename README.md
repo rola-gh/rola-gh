@@ -4,7 +4,7 @@ From Palestine, living in Gaza :v:.
 
  >I'm a front end web react developer, I have always passionate about coding and programming, and this has funded my special interest in web development. I always seek additional knowledge when it comes to technology and learning new techniques. Thus, I have been involved in several online courses and projects to improve my skills in the field.
 
-I now work as a dev React :muscle: .
+Now I work as a dev React :muscle: .
 
 
 ## :round_pushpin: Languages
